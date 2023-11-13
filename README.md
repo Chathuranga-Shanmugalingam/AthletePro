@@ -1,6 +1,6 @@
 # AthletePro
 
-AthletePro is a React aplication
+AthletePro is a React application
 
 ## Start the application
 
